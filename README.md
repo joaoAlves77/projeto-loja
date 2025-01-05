@@ -22,10 +22,10 @@ https://github.com/joaoAlves77/ProjetoBurger/assets/140833592/7f698c8a-1061-4374
 2. Abra o arquivo `index.html` em seu navegador da web.
 
 ## Tecnologias Utilizadas
-- TypeScript
-- React
-- Next
-- TailwindCss
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Contribuição
 
